@@ -6,7 +6,7 @@ public class Main {
     
     
    
-    public static void mainsd(String[] args) {
+    public static void mainFDS(String[] args) {
         System.out.println(12);
 
         System.out.println(12);
