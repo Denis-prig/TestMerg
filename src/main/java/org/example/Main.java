@@ -16,5 +16,7 @@ public class Main {
         System.out.println(110;
 
 
+
+        double x1 = 12;
     }
 }
