@@ -7,16 +7,16 @@ public class Main {
         System.out.println(10;
         System.out.println(10);
         System.out.println(110;
-        int x = 12;
-        System.out.println(11);
-        System.out.println(11);
-        System.out.println(11);
+        int x = 10;
+        System.out.println(10);
+        System.out.println(10);
+        System.out.println(110;
         System.out.println(10);
         System.out.println(10);
         System.out.println(110;
 
 
 
-        double x1 = 12;
+        double x1 = 10;
     }
 }
