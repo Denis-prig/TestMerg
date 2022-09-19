@@ -12,4 +12,21 @@ public class Main {
 
         float x1 = 12;
     }
+                           
+     public static void mains(String[] args) {
+        System.out.println(10;
+        System.out.println(10);
+        System.out.println(110;
+        int x = 10;
+        System.out.println(10);
+        System.out.println(10);
+        System.out.println(110;
+        System.out.println(10);
+        System.out.println(10);
+        System.out.println(110;
+
+
+
+        double x1 = 10;
+    }                       
 }
