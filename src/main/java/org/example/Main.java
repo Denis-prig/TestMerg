@@ -9,6 +9,11 @@ public class Main {
         System.out.println(11000);
 
 
+        
+         System.out.println(10);
+        System.out.println(10);
+        System.out.println(110);
+
 
         Integer x1 = 12;
     }
@@ -18,4 +23,10 @@ public class Main {
         System.out.println(1000);
         double x1 = 10;
     }                       
-}
+
+        float x1 = 12999;
+    }
+                           
+                
+
+
